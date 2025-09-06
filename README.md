@@ -45,6 +45,17 @@ run `get_score.sh` to compute the values
 1. `compute_scores.py` gets the scores according to `metric`, `causal` is our metric while `cf_edit` and `ccshap` refers to the other tests.
 2. `plot.py` plots out the causal plots.
 
+## Paper
 
+https://sentic.net/faithful-natural-language-explanations.pdf
 
+## Citation
+Please cite our work if you found it useful! 
 
+```bibtex
+@conference{yeo2025faithfulnle,
+  title={Towards Faithful Natural Language Explanations: A Study Using Activation Patching in Large Language Models},
+  author={Yeo, Wei Jie and Satapathy, Ranjan and Cambria, Erik},
+  booktitle={Proceedings of EMNLP},
+  year={2025}
+}
