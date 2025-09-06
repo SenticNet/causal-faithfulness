@@ -1,4 +1,4 @@
-# Causal-Faithfulness
+# Causal Faithfulness
 
 This repo computes faithfulness of Natural Language Explanations(NLE) of decoder transformer LLMs. 
 
